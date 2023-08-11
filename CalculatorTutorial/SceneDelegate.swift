@@ -2,7 +2,7 @@
 //  SceneDelegate.swift
 //  CalculatorTutorial
 //
-//  Created by Mehmet Said Canlı on 10.08.2023.
+//  Created by Bilge Canlı on 10.08.2023.
 //
 
 import UIKit
